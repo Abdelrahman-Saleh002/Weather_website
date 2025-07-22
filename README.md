@@ -1,4 +1,4 @@
-Weather_App
+# Weather_App
 
 A weather website built with **JavaScript** uses client-side scripting to fetch and display real-time weather data from APIs like OpenWeatherMap. 
 It allows users to search by city or use geolocation to show local conditions. JavaScript handles API requests, parses JSON responses, 
